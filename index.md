@@ -1,6 +1,5 @@
 ---
 layout: default
-title: home
+title: Home
 ---
-# hello world
 <h1>Hello World</h1>
