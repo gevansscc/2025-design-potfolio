@@ -6,6 +6,3 @@ baseurl: "/2025-design-potfolio"
 collections:
 	design:
 		output: true
-		
-	photoshop:
-		output: true
