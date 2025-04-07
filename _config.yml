@@ -6,3 +6,4 @@ baseurl: "/2025-design-potfolio"
 collections:
 design:
 output: true
+permalink: /:collection/:path/
