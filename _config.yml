@@ -4,5 +4,5 @@ email: gevans@stclaircollege.ca
 baseurl: "/2025-design-potfolio"
 
 collections:
-	design:
-		output: true
+design:
+output: true
