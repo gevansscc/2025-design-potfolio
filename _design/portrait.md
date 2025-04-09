@@ -2,7 +2,7 @@
 title: "pesonal portrait"
 tools: [Photoshop, InDesign]
 description: "A personal portrait of me"
-layout: 
+layout: default
 permalink: 
 ---
 
