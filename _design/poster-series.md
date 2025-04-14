@@ -10,7 +10,7 @@ permalink:
 
 This poster series was created to explore how typography can communicate emotion and energy through layout. Each poster uses a limited color palette and plays with bold type, asymmetrical grids, and negative space.
 
-![this is the poster](/assets/images/logo_2.gif)
+![this is the poster]({{site.baseurl}}/assets/images/logo_2.gif)
 
 ## Tools & Techniques
 
